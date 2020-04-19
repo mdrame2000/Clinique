@@ -1,0 +1,26 @@
+
+
+body {
+	background-color: pink;
+
+}
+
+#home {
+	background-color: beige;
+	text-align: center; 
+}
+
+#title {
+	text-align: center;
+}
+
+#table1 {
+	font-family: times;
+	color: black;
+}
+
+#icekid {
+	position: absolute;
+	left:1000px;
+	top:325px;
+}
